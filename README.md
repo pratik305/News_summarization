@@ -15,7 +15,7 @@ There are various techniques and approaches used in news summarization, includin
   ## How Run Project?
   ### 1. Clone Repository:
   ```bash
-  kndjkfkj
+  git clone https://github.com/pratik305/News_summarization.git
   ```
 
   ### 2. Create a Environment 
